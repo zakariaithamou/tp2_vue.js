@@ -1,0 +1,58 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Développeur Full Stack Vue.js / Node.js",
+      "description": "Conception d'APIs REST avec Express et développement d'interfaces monopages réactives en Vue.js.",
+      "salary": 14000,
+      "createdAt": "2026-10-15",
+      "experienceYears": 2,
+      "category": "tech"
+    },
+    {
+      "id": 2,
+      "title": "Ingénieur Cloud & DevOps",
+      "description": "Mise en place de pipelines CI/CD, conteneurisation Docker et automatisation des déploiements Kubernetes.",
+      "salary": 18500,
+      "createdAt": "2026-10-18",
+      "experienceYears": 3,
+      "category": "cloud"
+    },
+    {
+      "id": 3,
+      "title": "Développeur Frontend Vue 3 / Nuxt",
+      "description": "Intégration d'interfaces modernes, optimisation des performances web et gestion d'état centralisée.",
+      "salary": 12000,
+      "createdAt": "2026-10-22",
+      "experienceYears": 1,
+      "category": "tech"
+    },
+    {
+      "id": 4,
+      "title": "Architecte Solutions Cloud AWS",
+      "description": "Définition d'architectures serverless hautement disponibles, sécurisées et scalables sous AWS.",
+      "salary": 24000,
+      "createdAt": "2026-10-24",
+      "experienceYears": 5,
+      "category": "cloud"
+    },
+    {
+      "id": 5,
+      "title": "Ingénieur Données & Machine Learning",
+      "description": "Développement de pipelines ETL de données et mise en production de modèles prédictifs avec Python.",
+      "salary": 16000,
+      "createdAt": "2026-10-27",
+      "experienceYears": 2,
+      "category": "tech"
+    },
+    {
+      "id": 6,
+      "title": "Product Owner / Chef de Projet Agile",
+      "description": "Gestion du backlog produit, coordination des sprints avec l'équipe technique et cadrage des besoins clients.",
+      "salary": 17000,
+      "createdAt": "2026-10-29",
+      "experienceYears": 4,
+      "category": "other"
+    }
+  ]
+}
